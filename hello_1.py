@@ -1,1 +1,3 @@
 print("Hello, GitHub.com")
+print("Welcome to my first Python script.")
+
